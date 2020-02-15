@@ -1,0 +1,6 @@
+do this in json
+add place names?
+..do place names associate with affixes?
+add text colors? 
+materials that relate to the element are cool
+add rarity
